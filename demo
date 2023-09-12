@@ -1,8 +1,1 @@
-demo
-git --version 								//バージョン確認
-git init 									//初期化
-git add README.md 						//git管理下にファイルを追加
-git commit -m "first commit"				 //コミット
-git branch -M main 						//現在のブランチのブランチ名をmainに
-git remote add origin https://github.com/ozawa-masaki-ambl/Git.git //リモートリポジトリを追加
-git pull  　　　　　　　　　　　　　　　　　//リモートリポジトリからpull
+こんにちは
